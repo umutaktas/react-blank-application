@@ -1,1 +1,1 @@
-"# react-blank-application" 
+react-blank-application 
